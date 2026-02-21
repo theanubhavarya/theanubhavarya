@@ -1,96 +1,133 @@
-<h1 align="center">Anubhav Arya</h1>
-<h3 align="center">B.Tech CSE @ IIIT Bhopal | Cybersecurity | DSA | Systems & AI</h3>
+# Hi, I'm Anubhav Arya 👋
+
+🎓 1st Year B.Tech CSE Student at IIIT Bhopal  
+🏆 Highest CPI in Department — **9.67/10**  
+🥇 1st Place — Ruthruss CTF (Team Lead)  
+🥈 2nd Place — Code on Trial (Competitive Programming)
 
 ---
 
-## 👨‍🎓 Academic Excellence
+## 🚀 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering — Indian Institute of Information Technology (IIIT), Bhopal (2025–2029)
-- 📊 CPI: **9.67 / 10 (Highest in CSE Department — 1st Semester)**
-- 🏆 1st Place — Ruthruss CTF (Team Lead)
-- 🥈 2nd Place — Code on Trial (Competitive Programming)
+I am a highly driven Computer Science student with strong foundations in:
+
+- Data Structures & Algorithms
+- Cybersecurity & CTF Problem Solving
+- Backend Logic Development
+- AI-Assisted Application Development
+
+I enjoy solving structured problems, building practical systems, and understanding how things work at a low level.
+
+Currently preparing for:
+- 🔐 Cybersecurity Internships
+- 💻 Software Development Roles
+- 🧠 Advanced DSA & Competitive Programming
 
 ---
 
-## 🧠 Technical Focus
+## 🛠 Technical Skills
 
-- Data Structures & Algorithms (Consistent practice since 21 January 2026)
-- Cybersecurity & Penetration Testing fundamentals
-- Database Systems & Backend Logic
-- AI-assisted application development
-- System-level thinking & problem solving
-
----
-
-## 💻 Technical Skills
-
-### Programming Languages
+### Languages
 - C
 - C++
 - Python
 - SQL
 
-### Technologies & Tools
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Basic Operating Systems
+- Computer Networks Fundamentals
+
+### Tools & Technologies
 - MySQL
 - Git & GitHub
-- Kali Linux (basic penetration testing tools)
-- HTML / CSS / JavaScript
-- API Integration
-- PrettyTable, TTS automation (Python)
+- Kali Linux (WiFi testing, brute-force basics)
+- OpenCV
+- face_recognition
+- PyPDF2
+- pyttsx3
+- REST APIs
 
 ---
 
-## 🚀 Selected Projects
+## 🔥 Featured Projects
 
-### 🔹 AI Year Tracker
-An AI-integrated yearly progress visualization system built using HTML, APIs, and interactive logic.
-- Structured year planning interface
-- Intelligent content generation integration
-- Clean UI deployment using GitHub Pages
-
-### 🔹 Computer Sales & Service Management System
-A full MySQL-backed management system built in Python.
-- Inventory management
-- Transaction logging
+### 🖥 Computer Sales Service System
+MySQL-based inventory and transaction management system with:
+- Database auto-creation
+- Sales reporting
 - Invoice generation
-- Sales analytics & reporting
 - Stock alerts
-- Database creation & integrity management
+- Transaction management
 
-### 🔹 Weather Voice Application
-Python-based real-time weather application.
-- API integration
-- JSON parsing
-- Text-to-Speech output
-- Environment-variable based API key management
+Demonstrates database design + backend logic structuring.
 
 ---
 
-## 📈 Development Philosophy
-
-- Discipline over motivation  
-- Systems over shortcuts  
-- Deep understanding over surface-level knowledge  
-- Consistent daily DSA practice  
+### 🌦 Weather Voice App
+Real-time weather fetch using external API  
+Text-to-speech output using `pyttsx3`  
+API handling + JSON parsing + automation logic
 
 ---
 
-## 🎯 Current Goals
-
-- Strengthen DSA for high-impact internships
-- Advance in cybersecurity & system security concepts
-- Build scalable, real-world software systems
-- Prepare for product-based company internships
+### 🤖 RoboSpeaker
+Command-line text-to-speech automation tool  
+Demonstrates loop control, user input handling, and speech synthesis.
 
 ---
 
-## 📫 Connect
+### 🧠 AI Year Tracker (Live Project)
+AI-assisted productivity and yearly progress tracker built using:
+- HTML
+- Embedded logic
+- API integrations
 
-- 📧 Email: anubhav3127@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/the-anubhav-arya  
-- 💼 Resume: https://github.com/theanubhavarya/Resume/raw/main/Anubhav_Arya_Resume.pdf  
+Live: https://theanubhavarya.github.io/AI_Year_Tracker/
 
 ---
+
+### 🎯 Face Recognition Attendance System
+Real-time face recognition system using:
+- OpenCV
+- face_recognition
+- NumPy
+- CSV logging
+
+Demonstrates computer vision pipeline understanding.
+
+---
+
+## 📈 Current Focus
+
+- Daily DSA Practice (LeetCode Grind 🚀)
+- Strengthening C++ for competitive programming
+- Improving system design fundamentals
+- Building security-oriented practical tools
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: anubhva3127@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/the-anubhav-arya  
+📄 Resume: https://github.com/theanubhavarya/Resume/raw/main/Anubhav_Arya_Resume.pdf  
+
+---
+
+## ⚡ Mindset
+
+> Discipline beats motivation.  
+> Systems beat goals.  
+> Consistency compounds.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theanubhavarya&show_icons=true&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=theanubhavarya&theme=tokyonight" />
