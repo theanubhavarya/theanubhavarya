@@ -86,7 +86,7 @@ Python-based real-time weather application.
 
 ## 📫 Connect
 
-- 📧 anubhva3127@gmail.com  
+- 📧 Email: anubhav3127@gmail.com  
 - 🔗 LinkedIn: https://linkedin.com/in/the-anubhav-arya  
 - 💼 Resume: https://github.com/theanubhavarya/Resume/raw/main/Anubhav_Arya_Resume.pdf  
 
