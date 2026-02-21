@@ -111,7 +111,7 @@ Demonstrates computer vision pipeline understanding.
 
 ## 📫 Connect With Me
 
-📧 Email: anubhva3127@gmail.com  
+📧 Email: anubhav3127@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/the-anubhav-arya  
 📄 Resume: https://github.com/theanubhavarya/Resume/raw/main/Anubhav_Arya_Resume.pdf  
 
@@ -124,10 +124,6 @@ Demonstrates computer vision pipeline understanding.
 > Consistency compounds.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theanubhavarya&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=theanubhavarya&theme=tokyonight" />
